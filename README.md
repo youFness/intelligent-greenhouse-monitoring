@@ -29,3 +29,5 @@ The project presentation documents both a Raspberry Pi server setup and a cloud 
 - **Hardware Integration:** Worked on the greenhouse prototype hardware, integrating the ESP32, environmental sensors, and actuators, including the water pump and ventilation fan.
 - **Web Development:** Built the web dashboard using React and Tailwind CSS to display greenhouse monitoring data and provide controls for the pump and fan.
 
+web Dashboard: https://serre-intelligente.netlify.app/
+
